@@ -1,3 +1,5 @@
+<!-- saved from url=(0062)http://students.cs.ndsu.nodak.edu/~jayden.mills/connection.php -->
+
 <?php
 /* Database credentials. Assuming you are running MySQL server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'rei.cs.ndsu.nodak.edu');
@@ -16,6 +18,3 @@ if ($conn === false) {
     echo("db is done");
 }
 ?>
-
-
-
